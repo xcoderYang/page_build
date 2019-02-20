@@ -1,0 +1,14 @@
+{
+  "name": "page_build",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "version": "1.0.0",
+  "main": "A2R.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
